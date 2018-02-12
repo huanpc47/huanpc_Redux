@@ -1,0 +1,3 @@
+rootProject.name = 'huanpc_Redux'
+
+include ':app'
