@@ -1,4 +1,11 @@
 import { AppRegistry } from 'react-native';
 import App from './App';
+import React, { Component } from 'react';
 
-AppRegistry.registerComponent('huanpc_Redux', () => App);
+export default class Huanpc_Redux extends Component {
+    render() {
+    return (<App />);
+    }
+}
+
+AppRegistry.registerComponent('huanpc_Redux', () => Huanpc_Redux);
