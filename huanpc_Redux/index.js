@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import App from './src2/App';
 import React, { Component } from 'react';
 
 export default class Huanpc_Redux extends Component {
