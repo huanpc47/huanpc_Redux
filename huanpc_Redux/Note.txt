@@ -1,1 +1,2 @@
-This is the first note.
+This is the first note. And then modified it
+Modify for conflict
